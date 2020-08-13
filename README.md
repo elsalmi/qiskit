@@ -12,7 +12,7 @@ I will be updating literature periodically as well as adding developments to the
 
 2. Putz, Volkmar, and Karl Svozil. “Quantum Music.” Soft Computing 21.6 (2015): 1467–1471. Crossref. Web. <br>
 
-3.Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. "Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders." 2017.<br>
+3. Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. "Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders." 2017.<br>
 
 4. Engel, Jesse, et al. “GANSynth: Adversarial Neural Audio Synthesis.” ArXiv.org, 15 Apr. 2019, arxiv.org/abs/1902.08710. <br>
 
